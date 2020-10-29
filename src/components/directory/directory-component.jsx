@@ -14,7 +14,7 @@ class Directory extends React.Component {
             },
             {
                 title: 'ACCESSORIES',
-                imageUrl: 'https://lh3.googleusercontent.com/proxy/zgO2MEk0L7vfQLmTNDksbFY6SXlkYTKzHHfQXP5Vii1l0fibAblYl67zcy8BwQRK9apwsLpRQAsaZjVE2cQ2JtsylE5Ep_V3hQjxsmh72SfZr5HmU-wupxRdlg3SD_hm4zRU0r0b5IsAUmbt7Pnpq8kLOM_jp5Ku0ntIf7sjrE96iOklgXor92DVv4tZDAtuxDgxx5lP-isMMBoej6pED1N2YjS_t4AibiaLHCSSw6PSaQQ',
+                imageUrl: 'https://lh3.googleusercontent.com/proxy/rTfNQ8Qn_l3Kvo0oQ4DJNxKbEYksDbymG2y19KO5oVIlqd1f4bfpxLbEgtJ88KkTZc9Pi0APvOunyQ8s0_66I8w4TVtxsllNl3L_T93jO9ZERTrInj6FNm743V_gCB8G0NgBqMrP8Q4zyuAmJV8b3s9GEWiEDts0KRHsmB0hGwb0IDdDBaQj000a0srzrCgQ75qocytlrB2R8vMGoEbsBg8y3P7lWVZGPS7lx-0ih6HmGS0',
                 id: 2
             },
             {
